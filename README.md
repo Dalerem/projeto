@@ -12,7 +12,7 @@ Analise dos dados.
 - importe e salve do aqrquivo para GitHub
 - Exporte do documento csv
 
-## Installation
+## Instalação
 
 Instalando os dependentes e devdependentes e inciando a analise dos dados.
 
