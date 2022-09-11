@@ -3,7 +3,7 @@
 Analise dos dados.
 
 - Tipo de dados analisados, csv
-- Usando Python e seu modulo pandas, matplotlib
+- Usando Python e seu modulo pandas, matplotlib e time
 
 
 ## Features
