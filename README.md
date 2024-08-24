@@ -6,7 +6,7 @@ Analise dos dados.
 - Usando Python e seu modulo pandas, matplotlib e time
 
 
-## Features
+## Caracteristicas
 
 - Importe dos dados analisados
 - importe e salve do aqrquivo para GitHub
